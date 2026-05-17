@@ -4,3 +4,4 @@ __pycache__/
 .venv-arm/
 env/
 *.mp4
+.ipynb_checkpoints/
